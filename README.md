@@ -10,5 +10,11 @@
 
 Pada pertemuan 7 di PPT3 ini saya diberikan beberapa tugas diantaranya yaitu: <br>
 
-![tuga3-1](foto/tugas3-1.png)
+![tuga3-1](foto/tugas31.png)
+
+## Latihan 1
+
+Untuk saat ini saya akan mencoba untuk mengerjakan Latihan 1 seperti gambar dibawah ini terlebih dahulu. <br>
+
+![latihan3-1](foto/latihan3-1.png)
 
