@@ -35,4 +35,8 @@ Maka hasil yang didapat dari syntax tersebut adalah <br>
 
 ![hasil1](foto/hasil1.png)
 
+## Latihan 2
+
+![latihan2](foto/latihan2.png)
+
 
