@@ -39,4 +39,25 @@ Maka hasil yang didapat dari syntax tersebut adalah <br>
 
 ![latihan2](foto/latihan2.png)
 
+Untuk mengerjakan soal diatas maka kita perlu memasukan atau menginput datanya terlebih dahulu baru setelah itu bisa terlihat data mana yang terbesar denagn syntax.
+
+```python
+N=int(input("silahkan masukan jumlah bilangan ="))
+if N>0:
+    i=1
+    x=int(input("masukan bilangan "+str(i)+"="))
+    max=x;total=x
+    for i in range(2,N+1):
+        x=int (input("masukan bilangan "+str(i)+"="))
+        total+=x
+        if max<x:
+            max=x
+
+    print("bilangan terbesar =",max)
+```
+
+Setelah itu bisa langsung kalian "RUN" untuk dapat memasukan data yang sesuai dengan yang ada di soal seperti dibawah ini
+
+![hasil2](foto/hasil2.png)
+
 
