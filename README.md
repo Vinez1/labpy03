@@ -14,7 +14,24 @@ Pada pertemuan 7 di PPT3 ini saya diberikan beberapa tugas diantaranya yaitu: <b
 
 ## Latihan 1
 
-Untuk saat ini saya akan mencoba untuk mengerjakan Latihan 1 seperti gambar dibawah ini terlebih dahulu. <br>
-
 ![latihan3-1](foto/latihan3-1.png)
+
+untuk mengerjakannya kalian perlu memasukan sytax berikut
+
+```python
+import random
+print(40*"=")
+print("Bilangan random yang lebih kecil dari 0,5")
+print(40*"=")
+jum = int( input("Masukan nilai n : "))
+i = 0
+for i in range(jum):
+    i += 1
+    angkaDec = random.uniform(0, 0.5)
+    print("Data ke", i, " = ", angkaDec)
+```
+
+Maka hasil yang didapat dari syntax tersebut adalah <br>
+
+![hasil1](foto/hasil1.png)
 
