@@ -106,7 +106,7 @@ Penjelasannya sebagai berikut :
 
 
 
-# **Terimakasih**
+# **Sekian Terimakasih**
 
 
 
