@@ -88,8 +88,16 @@ print("\Total : ",total)
 
 Penjelasannya sebagai berikut :
 
-* Variable a = 100.000.000 yaitu modal awalnya
-* Menggunakan fungsi looping for pada nilai x 1-9 untuk menampilkan bulan 1 sampai bulan 8
+* Variable a = 100.000.000 yaitu modal awalnya.
+* Menggunakan fungsi looping for pada nilai x 1-9 untuk menampilkan bulan 1 sampai bulan 8.
+* Menggunakan fungsi if, untuk menghitung laba bulan 1 sampai bulan 8.
+* Bulan pertama dan kedua laba adalah 0.
+* Bulan ke 3 dan bulan ke 4 mendapatkan laba sebesar 1% sehingga modal di kali 1% = keuntungan.
+* Bulan ke 5 mendapatkan laba  sebesar 5% sehingga modal dikali dengan 5% = keuntungan.
+* Bulan ke 8 mendapatkan laba sebesar 2% sehingga keuntungan mulai menurun dari bulan sebelumnya, modal dikali dengan 2% = keuntungan
+* Mengitung jumlah total laba dengan mmenjumlahkan keuntungan dari bulan ke 1 sampai bulan ke 8, maka hasilnya adalah total keuntungan yang di dapat adalah
+``` total=b+b+c+c+d+d+d+e```
+* ``` print("\Total : ",total) ``` , untuk menampilkan hasil keseluruhan laba dari bulan ke 1 sampai bulan ke 8. 
 
 
 
