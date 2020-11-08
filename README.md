@@ -99,6 +99,15 @@ Penjelasannya sebagai berikut :
 ``` total=b+b+c+c+d+d+d+e```
 * ``` print("\Total : ",total) ``` , untuk menampilkan hasil keseluruhan laba dari bulan ke 1 sampai bulan ke 8. 
 
+### Output :
+
+![hasiloutout](foto/outputpy.png)
+
+
+
+
+# **Terimakasih**
+
 
 
 
